@@ -1,86 +1,122 @@
 [
   {
-    "name": "Gorgeous Bamboo Towels",
-    "price": "838.15",
-    "category": "Garden",
-    "description": "The sleek and neglected Shoes comes with lavender LED lighting for smart functionality"
+    "name": "Generic Ceramic Sausages",
+    "price": "863.72",
+    "category": "Baby"
   },
   {
-    "name": "Oriental Rubber Chicken",
-    "price": "119.74",
-    "category": "Electronics",
-    "description": "Professional-grade Tuna perfect for lovable training and recreational use"
+    "name": "Rustic Metal Chips",
+    "price": "310.85",
+    "category": "Kids"
   },
   {
-    "name": "Handmade Cotton Hat",
-    "price": "401.95",
-    "category": "Kids",
-    "description": "The sleek and breakable Hat comes with orchid LED lighting for smart functionality"
+    "name": "Incredible Bronze Pants",
+    "price": "361.79",
+    "category": "Shoes"
   },
   {
-    "name": "Handmade Granite Pants",
-    "price": "506.85",
-    "category": "Health",
-    "description": "New Shoes model with 83 GB RAM, 767 GB storage, and slimy features"
+    "name": "Refined Bronze Bike",
+    "price": "519.99",
+    "category": "Games"
   },
   {
-    "name": "Elegant Gold Sausages",
-    "price": "604.09",
-    "category": "Books",
-    "description": "Discover the rabbit-like agility of our Mouse, perfect for unlined users"
+    "name": "Handmade Rubber Car",
+    "price": "492.09",
+    "category": "Grocery"
   },
   {
-    "name": "Rustic Cotton Keyboard",
-    "price": "95.61",
-    "category": "Garden",
-    "description": "Introducing the Bouvet Island-inspired Gloves, blending courageous style with local craftsmanship"
+    "name": "Oriental Steel Pants",
+    "price": "566.25",
+    "category": "Garden"
   },
   {
-    "name": "Gorgeous Silk Bike",
-    "price": "776.95",
-    "category": "Clothing",
-    "description": "Introducing the Panama-inspired Gloves, blending crazy style with local craftsmanship"
+    "name": "Modern Metal Cheese",
+    "price": "102.59",
+    "category": "Toys"
   },
   {
-    "name": "Fantastic Plastic Bacon",
-    "price": "719.59",
-    "category": "Jewelry",
-    "description": "New cyan Shirt with ergonomic design for long comfort"
+    "name": "Practical Plastic Mouse",
+    "price": "805.05",
+    "category": "Industrial"
   },
   {
-    "name": "Intelligent Plastic Mouse",
-    "price": "19.49",
-    "category": "Games",
-    "description": "Luettgen, O'Keefe and Daugherty's most advanced Hat technology increases idealistic capabilities"
+    "name": "Modern Marble Keyboard",
+    "price": "762.65",
+    "category": "Shoes"
   },
   {
-    "name": "Recycled Wooden Mouse",
-    "price": "122.75",
-    "category": "Garden",
-    "description": "Our tangy-inspired Keyboard brings a taste of luxury to your optimistic lifestyle"
+    "name": "Refined Plastic Fish",
+    "price": "544.40",
+    "category": "Home"
   },
   {
-    "name": "Elegant Ceramic Keyboard",
-    "price": "783.15",
-    "category": "Baby",
-    "description": "The sleek and deadly Table comes with white LED lighting for smart functionality"
+    "name": "Practical Silk Tuna",
+    "price": "591.29",
+    "category": "Toys"
   },
   {
-    "name": "Intelligent Marble Bike",
-    "price": "947.59",
-    "category": "Toys",
-    "description": "Our sour-inspired Chips brings a taste of luxury to your cool lifestyle"
+    "name": "Modern Rubber Towels",
+    "price": "59.35",
+    "category": "Tools"
   },
   {
-    "name": "Handmade Wooden Car",
-    "price": "528.75",
-    "category": "Grocery",
-    "description": "Ergonomic Sausages made with Gold for all-day tired support"
+    "name": "Fantastic Steel Pizza",
+    "price": "458.50",
+    "category": "Beauty"
   },
   {
-    "name": "Sleek Metal Cheese",
-    "price": "431.39",
-    "category": "Garden",
-    "description": "Discover the cow-like agility of our Sausages, perfect for competent users"
+    "name": "Practical Gold Towels",
+    "price": "636.30",
+    "category": "Home"
+  },
+  {
+    "name": "Intelligent Silk Tuna",
+    "price": "463.29",
+    "category": "Industrial"
+  },
+  {
+    "name": "Licensed Aluminum Gloves",
+    "price": "193.59",
+    "category": "Automotive"
+  },
+  {
+    "name": "Sleek Metal Bike",
+    "price": "845.19",
+    "category": "Clothing"
+  },
+  {
+    "name": "Luxurious Cotton Car",
+    "price": "660.49",
+    "category": "Baby"
+  },
+  {
+    "name": "Soft Bronze Keyboard",
+    "price": "920.85",
+    "category": "Industrial"
+  },
+  {
+    "name": "Gorgeous Steel Table",
+    "price": "988.89",
+    "category": "Shoes"
+  },
+  {
+    "name": "Practical Bamboo Hat",
+    "price": "756.15",
+    "category": "Music"
+  },
+  {
+    "name": "Sleek Cotton Chips",
+    "price": "590.75",
+    "category": "Industrial"
+  },
+  {
+    "name": "Licensed Metal Bacon",
+    "price": "67.75",
+    "category": "Shoes"
+  },
+  {
+    "name": "Luxurious Marble Tuna",
+    "price": "905.09",
+    "category": "Automotive"
   }
 ]
