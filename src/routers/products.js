@@ -7,17 +7,20 @@ import {
   updateProductController,
 } from "../controllers/products.js";
 import { ctrlWrapper } from "../utils/ctrlWrapper.js";
+import { validateBody } from "../middlewares/validateBody.js";
+import { createProductSchema, editProductSchema } from "../validation/product.js";
+import { isValidId } from "../middlewares/isValidId.js";
 
 const productsRouter = new Router();
 
 productsRouter.get("/", ctrlWrapper(getProductsController));
 
-productsRouter.get("/:productId", ctrlWrapper(getProductByIdController));
+productsRouter.get("/:productId", isValidId('productId'), ctrlWrapper(getProductByIdController));
 
-productsRouter.post("/", ctrlWrapper(createProductController));
+productsRouter.post("/", validateBody(createProductSchema), ctrlWrapper(createProductController));
 
-productsRouter.patch("/:productId", ctrlWrapper(updateProductController));
+productsRouter.patch("/:productId", validateBody(editProductSchema), isValidId('productId'), ctrlWrapper(updateProductController));
 
-productsRouter.delete("/:productId", ctrlWrapper(deleteProductController));
+productsRouter.delete("/:productId", isValidId('productId'), ctrlWrapper(deleteProductController));
 
 export default productsRouter;
